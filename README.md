@@ -22,7 +22,8 @@ Accurate demand forecasting is essential for inventory management and strategic 
 - Baseline model MAE: 142  
 - Improved model MAE (excluding outliers): 88  
 - ~38% improvement in prediction accuracy  
-![Forecast vs Real](images/forecast_vs_real.png)
+![Forecast vs Real](grafica1.png)
+
 ## 💡 Key Insights
 - Demand follows a relatively stable pattern under normal conditions  
 - High variability is driven by extraordinary events (e.g., large customers)  
